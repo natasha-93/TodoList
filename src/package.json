@@ -1,0 +1,13 @@
+{
+  "name": "Todo List Project",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/m7m7rk53mp",
+  "main": "index.js",
+  "dependencies": {
+    "semantic-ui-react": "0.78.1",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
